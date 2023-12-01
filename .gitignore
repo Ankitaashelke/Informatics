@@ -1,0 +1,22 @@
+ 
+# Ignore .env files
+.env
+
+# Ignore logs
+*.log
+
+# Ignore a directory named "secret"
+secret/
+# iPython
+.ipynb*
+__pycache__*
+*.pyc
+
+# app
+.env
+scratch.ipynb
+data*
+# *.pickle
+
+# macOS
+*.DS_Store
